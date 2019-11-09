@@ -4,7 +4,7 @@
 
 ## 1、数据处理部分
 
-  #### 1.1 维基百科中文语料的处理
+  #### 1.1 [维基百科中文语料的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.1wikiwordsprocess.md) start 2019-11-9
  
   #### 1.2 汉语新闻语料库的处理
  
