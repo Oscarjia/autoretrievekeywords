@@ -6,7 +6,7 @@
 
   #### 1.1 [维基百科中文语料的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.1wikiwordsprocess.md) start 2019-11-9 end 2019-11-13
  
-  #### 1.2 [汉语新闻语料库的处理] (https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.2chinesenewscorpus.md) start 2019-11-13 end 2019-11-15
+  #### 1.2 [汉语新闻语料库的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.2chinesenewscorpus.md) start 2019-11-13 end 2019-11-15
  
   #### 1.3 使用Gensim训练词向量
  
