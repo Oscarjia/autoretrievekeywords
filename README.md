@@ -10,7 +10,7 @@
  
   #### 1.3 [使用Gensim训练词向量](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.3gensimtrain.md) start 2019-11-15 end 2019-11-16
  
-  #### 1.4 测试词向量的效果
+  #### 1.4 [测试词向量的效果](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.4testwordvect.md)
  
 ## 2、建立模型和模型优化
 
