@@ -14,7 +14,7 @@
  
 ## 2、建立模型和模型优化
 
- #### 2.1 句子的SIF向量化
+ #### 2.1 [句子的SIF向量化](https://github.com/Oscarjia/autoretrievekeywords/blob/master/2.1SIF.md)
  
  #### 2.2 依据句子向量，为每个句子赋予权值
  
