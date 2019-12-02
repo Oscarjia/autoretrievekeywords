@@ -16,7 +16,7 @@
 
  #### 2.1 [句子的SIF向量化](https://github.com/Oscarjia/autoretrievekeywords/blob/master/2.1SIF.md)
  
- #### 2.2 依据句子向量，为每个句子赋予权值
+ #### 2.2 [依据句子向量，为每个句子赋予权值](https://github.com/Oscarjia/autoretrievekeywords/blob/master/2.2weight.md)
  
  #### 2.3  KNN平滑
  
