@@ -4,11 +4,11 @@
 
 ## 1、数据处理部分
 
-  #### 1.1 [维基百科中文语料的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.1wikiwordsprocess.md) start 2019-11-9 end 2019-11-13
+  #### 1.1 [维基百科中文语料的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.1wikiwordsprocess.md) 
  
-  #### 1.2 [汉语新闻语料库的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.2chinesenewscorpus.md) start 2019-11-13 end 2019-11-15
+  #### 1.2 [汉语新闻语料库的处理](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.2chinesenewscorpus.md) 
  
-  #### 1.3 [使用Gensim训练词向量](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.3gensimtrain.md) start 2019-11-15 end 2019-11-16
+  #### 1.3 [使用Gensim训练词向量](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.3gensimtrain.md) 
  
   #### 1.4 [测试词向量的效果](https://github.com/Oscarjia/autoretrievekeywords/blob/master/1.4testwordvect.md)
  
